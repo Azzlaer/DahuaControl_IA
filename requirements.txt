@@ -1,0 +1,6 @@
+opencv-python
+pytesseract
+ultralytics
+onvif-zeep
+configparser
+flask
